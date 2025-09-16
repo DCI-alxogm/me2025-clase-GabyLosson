@@ -1,4 +1,4 @@
-//436578
+//427798
 //Ejercicio de clase 3, Semana 6
 //ANÀLISIS COMPARATIVO DE MÈTODO DE BISECCIÒN Y FALSA POSICIÒN PARA DIFERENTES FUNCIONES DADAS
 //Mètodo de bisecciòn, funciòn 2
@@ -49,3 +49,4 @@ int main() {
 
     return 0;
 }
+
